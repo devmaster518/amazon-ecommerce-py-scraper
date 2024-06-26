@@ -169,3 +169,4 @@ amazon_scraping_to_csv.py
 /lookhook
 /images
 !/images/index.txt
+!index.txt
